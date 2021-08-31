@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link href='https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@1,600' rel='stylesheet'>
+<style>
+body {
+    font-family: 'IBM Plex Mono', monospace ;font-size: 32px; font-style: italic;
+    line-height: 10%;
+}
+</style>
+</head>
+<body>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alvie</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;canzq</p>
+<p><a href="mailto:a@canzq.com"> a&nbsp;&nbsp;@&nbsp;&nbsp;canzq.com</a></p>
+<p>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/acanzq/">@&nbsp;acanzq</a></p>
+
+</body>
+</html>
